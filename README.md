@@ -11,6 +11,12 @@ Hi, I am Shruti :)
 - 📫 How to reach me: shruti.shresthaa@gmail.com, sshrestha8@student.gsu.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have imposter syndrome, and this is the reason I practice hard to satisfy myself, this makes me succeed. :D 
+- 
+## Here are a few technologies that I enjoy working with
+
+* 💻 HTML, CSS, JavaScript, MySQL, PostgreSQL
+* Computer Vision, Deep Learning, Machine Learning, Data Visualization, Data Management, Predictive
+* Framework and APIs : PyTorch, TensorFlow, Numpy, Pandas, scikit-learn, NLTK, Keras, MONAI, Spark
 
 
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutishrestha&show_icons=true&theme=radical)
