@@ -5,13 +5,13 @@
 Hi, I am Shruti :)
 
 - 🔭 I’m currently working on Computer Vision Research. My current research is based on Solar Flare SuperResolution.
-- 🤔 Open to summer internships in Data Science, Machine Learning, Data Analyst roles starting December 2021 
+- 🤔 Open to summer internships in Data Science, Machine Learning, Data Analyst roles starting May 2022
 
 
 - 📫 How to reach me: shruti.shresthaa@gmail.com, sshrestha8@student.gsu.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have imposter syndrome, and this is the reason I practice hard to satisfy myself, this makes me succeed. :D 
-- 
+
 ## Here are a few technologies that I enjoy working with
 
 * Computer Vision, Deep Learning, Machine Learning, Data Visualization, Data Management, Predictive Analytics
