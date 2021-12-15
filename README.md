@@ -1,9 +1,8 @@
-### Hi there 👋
 
-<!--
-**shrutishrestha/shrutishrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+Hi, I am Shruti :)
 
 - 🔭 I’m currently working on Computer Vision Research. My current research is based on solar flare SuperResolution.
 - 🌱 I’m currently learning Machine Learning, Data Science
