@@ -13,7 +13,5 @@ Hi, I am Shruti :)
 - ⚡ Fun fact: I have imposter syndrome, and this is the reason I practice hard to satisfy myself, this makes me succeed. :D 
 
 
-[![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=shrutishrestha)](https://github.com/shrutishrestha/github-readme-stats)
-
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutishrestha&show_icons=true)
 
