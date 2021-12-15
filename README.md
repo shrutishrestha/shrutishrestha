@@ -19,4 +19,7 @@ Technologies I enjoy:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutishrestha&layout=compact&show_icons=true&theme=radical)](https://github.com/shrutishrestha/github-readme-stats)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'  width='50'>](https://github.com/shrutishrestha)             [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25' width='50'>](https://www.linkedin.com/in//shruti-shrestha-6bb52010a/)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25' width='50'>](https://twitter.com/shrutishresthaa)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'  width='50'>](https://github.com/shrutishrestha)             [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25' width='50'>](https://www.linkedin.com/in//shruti-shrestha-6bb52010a/)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='25' width='50'>](https://scholar.google.com/citations?user=zTMdFS8AAAAJ&hl=en)       
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='25' width='50'>] (https://www.researchgate.net/profile/Shruti-Shrestha-4)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25' width='50'>](https://twitter.com/shrutishresthaa)  
