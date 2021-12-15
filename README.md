@@ -14,3 +14,6 @@ Hi, I am Shruti :)
 
 
 [![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=shrutishrestha)](https://github.com/shrutishrestha/github-readme-stats)
+
+![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutishrestha&show_icons=true)
+
