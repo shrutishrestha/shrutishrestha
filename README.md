@@ -14,9 +14,9 @@ Hi, I am Shruti :)
 - 
 ## Here are a few technologies that I enjoy working with
 
-* 💻 HTML, CSS, JavaScript, MySQL, PostgreSQL
 * Computer Vision, Deep Learning, Machine Learning, Data Visualization, Data Management, Predictive
 * Framework and APIs : PyTorch, TensorFlow, Numpy, Pandas, scikit-learn, NLTK, Keras, MONAI, Spark
+* * HTML, CSS, JavaScript, MySQL, PostgreSQL
 
 
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutishrestha&show_icons=true&theme=radical)
