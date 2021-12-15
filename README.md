@@ -12,7 +12,6 @@ Hi, I am Shruti :)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have imposter syndrome, and this is the reason I practice hard to satisfy myself, this makes me succeed. :D 
 
-Technologies I enjoy:
 
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutishrestha&show_icons=true&theme=radical)
 
