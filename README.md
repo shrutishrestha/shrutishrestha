@@ -5,7 +5,7 @@
 Hi, I am Shruti :)
 
 - 🔭 I’m currently working on Computer Vision Research. My current research is based on Solar Flare SuperResolution.
-- - 🤔 I’m looking for summer internships as a Machine Learning intern, Data Science intern, Data Analyst intern.
+- 🤔 I’m looking for summer internships as a Machine Learning intern, Data Science intern, Data Analyst intern.
 - 🌱 I’m currently learning Machine Learning, Data Science
 - 👯 I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me: shruti.shresthaa@gmail.com, sshrestha8@student.gsu.edu
