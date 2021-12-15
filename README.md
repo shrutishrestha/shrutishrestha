@@ -14,5 +14,4 @@ Hi, I am Shruti :)
 
 
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutishrestha&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrutishrestha&repo=POLYP_CCNET)](https://github.com/shrutishrestha/github-readme-stats)
 
