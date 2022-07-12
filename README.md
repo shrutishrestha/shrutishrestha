@@ -6,7 +6,7 @@ Hi, I am Shruti :)
 
 - 🔭 I’m currently working on Machine Learning Engineer Intern at Research Solution Department of Georgia State University. Here we are optimizing codes for efficiently using the CPU and GPU processes. Working on NVIDIA DALI, NVIDIA Nsight Systems, Distributed Data parallel, Slurms, cupy.
 
-- Started pursuing master degree at Georgia State University and have been working as a Computer Vision Researcher at Data Mining Lab of Georgia State University. My current research is based on Solar Flare SuperResolution.
+- Started pursuing master degree at Georgia State University since Aug 2021, and have been working as a Computer Vision Researcher at Data Mining Lab of Georgia State University. My current research is based on Solar Flare SuperResolution.
 
 - 🤔 Open to Full time grad roles staring Jan, 2022 in areas like  Machine Learning Engineer, Deep Learning Engineer, Data Science, Data Analyst roles 
 
