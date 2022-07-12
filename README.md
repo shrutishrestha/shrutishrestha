@@ -31,7 +31,9 @@ Hi, I am Shruti :)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'  width='50'>](https://github.com/shrutishrestha)             [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25' width='50'>](https://www.linkedin.com/in//shruti-shrestha-6bb52010a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='25' width='50'>](https://scholar.google.com/citations?user=zTMdFS8AAAAJ&hl=en)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='25' width='50'>](https://researchgate.net/profile/Shruti-Shrestha-4/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25' width='50'>](https://twitter.com/shrutishresthaa)
 
 
-Publications:
-[EarthCube_Shruti.pdf](https://github.com/shrutishrestha/shrutishrestha/files/9088618/EarthCube_Shruti.pdf)
-
+Links:</br>
+[My Portfolio](https://shrutishrestha.github.io/)</br>
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=zTMdFS8AAAAJ&view_op=list_works&gmla=AJsN-F614r81o5vWy5BM6mimW73E5c47OLAdxRHEL_gYWY1Ibhlv7FyJsafU20LJMAsUEo9jLk52aBlKSdJlNZjAFCf7eEbgxFpZY4XeyOPF_Dbh7-Shwnw)</br>
+[Data Mining Lab](https://sites.google.com/view/dmlab/team/shruti-shrestha?authuser=0)</br>
+[Medium](https://medium.com/@shruti.shrestha)</br>
 
