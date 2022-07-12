@@ -8,7 +8,7 @@ Hi, I am Shruti :)
 
 - Started pursuing master degree at Georgia State University since Aug 2021, and have been working as a Computer Vision Researcher at Data Mining Lab of Georgia State University. My current research is based on Solar Flare SuperResolution.
 
-- 🤔 Open to Full time grad roles staring Jan, 2022 in areas like  Machine Learning Engineer, Deep Learning Engineer, Data Science, Data Analyst roles 
+- 🤔 Open to Full time grad roles staring Jan, 2022 in roles like  Machine Learning Engineer, Deep Learning Engineer, Data Science, Data Analyst 
 
 - 📫 How to reach me: shrutishrestha052@gmail.com, sshrestha8@student.gsu.edu
 
