@@ -4,17 +4,20 @@
 
 Hi, I am Shruti :)
 
-- 🔭 I’m currently working on Computer Vision Research. My current research is based on Solar Flare SuperResolution.
-- 🤔 Open to summer internships in Data Science, Machine Learning, Data Analyst roles starting May 2022
+- 🔭 I’m currently working on Machine Learning Engineer Intern at Research Solution Department of Georgia State University. Here we are optimizing codes for efficiently using the CPU and GPU processes. Working on NVIDIA DALI, NVIDIA Nsight Systems, Distributed Data parallel, Slurms, cupy.
 
+- Started pursuing master degree at Georgia State University and have been working as a Computer Vision Researcher at Data Mining Lab of Georgia State University. My current research is based on Solar Flare SuperResolution.
 
-- 📫 How to reach me: shruti.shresthaa@gmail.com, sshrestha8@student.gsu.edu
+- 🤔 Open to Full time grad roles staring Jan, 2022 in areas like  Machine Learning Engineer, Deep Learning Engineer, Data Science, Data Analyst roles 
+
+- 📫 How to reach me: shrutishrestha052@gmail.com, sshrestha8@student.gsu.edu
+
 - 😄 Pronouns: she/her
 
 
 ## Here are a few technologies that I enjoy working with
 
-* Computer Vision, Deep Learning, Machine Learning, Data Visualization, Data Management, Predictive Analytics
+* Code Optimization, Computer Vision, MLOps, Deep Learning, Machine Learning, Data Visualization, Data Management, Predictive Analytics
 * Framework and APIs : PyTorch, TensorFlow, Numpy, Pandas, scikit-learn, NLTK, Keras, MONAI, Spark
 * Databases: MySQL, PostgreSQL
 * HTML, CSS, JavaScript,
