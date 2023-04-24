@@ -4,7 +4,7 @@
 
 Hi, I am Shruti :)
 
-- 📫 How to reach me: shrutishrestha052@gmail.com, sshrestha8@student.gsu.edu
+- 📫 How to reach me: shrutishrestha052@gmail.com, sshrestha8@gsu.edu
 
 - 😄 Pronouns: she/her
 
