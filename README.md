@@ -17,7 +17,6 @@ Hi, I am Shruti :)
 * HTML, CSS, JavaScript,
 
 
-![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutishrestha&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutishrestha&layout=compact&show_icons=true&theme=radical)](https://github.com/shrutishrestha/github-readme-stats)
 
